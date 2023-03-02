@@ -1,0 +1,5 @@
+C:\Users\asaph.jgalhardo\source\repos\vetores_produtos\vetores_produtos\obj\Debug\net6.0\vetores_produtos.csproj.AssemblyReference.cache
+C:\Users\asaph.jgalhardo\source\repos\vetores_produtos\vetores_produtos\obj\Debug\net6.0\vetores_produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asaph.jgalhardo\source\repos\vetores_produtos\vetores_produtos\obj\Debug\net6.0\vetores_produtos.AssemblyInfoInputs.cache
+C:\Users\asaph.jgalhardo\source\repos\vetores_produtos\vetores_produtos\obj\Debug\net6.0\vetores_produtos.AssemblyInfo.cs
+C:\Users\asaph.jgalhardo\source\repos\vetores_produtos\vetores_produtos\obj\Debug\net6.0\vetores_produtos.csproj.CoreCompileInputs.cache
